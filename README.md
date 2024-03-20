@@ -26,7 +26,7 @@ O projeto se constitui na elaboração de uma lógica de programação em react,
 </li>
 <li>execute localmente o projeto com o comando `npm start`.
 </li>
-<li>acesse o link gerado ou abra o navegador em <http://localhost:(numeração gerada)> para visualizar o projeto em execução.
+<li>acesse o link gerado ou abra o navegador em http://localhost:(numeração gerada) para visualizar o projeto em execução.
 </li>
 </ul>
 
