@@ -4,11 +4,11 @@
 
 O projeto se constitui na elaboração de uma lógica de programação em react, para criar uma forma de inserir listas de afazeres, a partir de um elemento de input. O projeto também conta com um botão de adicionar uma lista, que gera uma task junto de um botão exclusivo para excluir seu respectivo item. O projeto se materializa a partir de meus estudos iniciais de react, bem como meu treinamento projetando nessa tecnologia que para mim é nova. 
 
-## Vizualize a Página
-xxx
+## Vizualize a Página:
+![Lista-de-afazeres](https://github.com/Clarc-Vasconcelos/Lista-de-Afazeres/assets/129234188/027a456c-542c-47ca-9c46-169719248fa9)
 <br />
 
-<p>Para visualizar a página em ação, acesse este <a href='xxxxxx' target='_blank'>link</a>.</p>
+<p>Para visualizar a página em ação, acesse este <a href='https://lista-de-afazeres-rho.vercel.app/' target='_blank'>link</a>.</p>
 
 ## Tecnologias Utilizadas
 <ul>
